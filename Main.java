@@ -1,11 +1,15 @@
 import java.util.Scanner;
 /**
- * TODO Write a one-sentence summary of your  here.
- * TODO Follow it with additional details about its purpose, what abstraction
- * it represents, and how to use it.
+ * This program is an adaptation/clone of the word game Wordle.
+ * This game is intended to be a fully functional wordle copy. 
+ * To start, change the string in the constructor ("bones") to 
+ *  Whatever 5 letter word you would like.
+ * There is currently no dictionary support,
+ * and incorrect handling of multiple instances of the same letter.
+ * I am working on this as a learning project, so don't take it too seriously please :)
  * 
- * @author  TODO Put Your Name in the author tag
- * @version Dec 14, 2025
+ * @author Ethan T Conley, ethantconley@gmail.com
+ * @version Feb 2, 2026
  */
 public class Main {
     public static void main(String[] args) {
